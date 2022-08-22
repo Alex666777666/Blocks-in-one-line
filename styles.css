@@ -1,29 +1,34 @@
-.block {
+.block_red {
   height: 200px;
-
   width: 200px;
-}
-.red {
   background-color: red;
   width: 20%;
   float: left;
 }
-.green {
+.block_green {
+  height: 200px;
+  width: 200px;
   background-color: green;
   width: 20%;
   float: left;
 }
-.blue {
+.block_blue {
+  height: 200px;
+  width: 200px;
   background-color: blue;
   width: 20%;
   float: left;
 }
-.yellow {
+.block_yellow {
+  height: 200px;
+  width: 200px;
   background-color: yellow;
   width: 20%;
   float: left;
 }
-.black {
+.block_black {
+  height: 200px;
+  width: 200px;
   background-color: black;
   width: 20%;
   float: left;
