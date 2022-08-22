@@ -1,20 +1,30 @@
 .block {
   height: 200px;
+
   width: 200px;
-  float: left;
 }
 .red {
   background-color: red;
+  width: 20%;
+  float: left;
 }
 .green {
   background-color: green;
+  width: 20%;
+  float: left;
 }
 .blue {
   background-color: blue;
+  width: 20%;
+  float: left;
 }
 .yellow {
   background-color: yellow;
+  width: 20%;
+  float: left;
 }
 .black {
   background-color: black;
+  width: 20%;
+  float: left;
 }
